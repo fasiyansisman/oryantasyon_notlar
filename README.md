@@ -1,0 +1,2 @@
+# oryantasyon_notlar
+Notlar
